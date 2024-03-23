@@ -1,0 +1,36 @@
+Sample Input
+Foie gras
+15 2
+Huîtres
+10 1
+Bœuf bourguignon
+18 1
+Magret de canard
+17 1
+Lapin à la moutarde
+16 1
+Crème brûlée
+6 1
+Mousse au chocolat
+5 2
+TOTAL
+100
+Sample Output
+PAY
+Sample Input
+Escargots de Bourgogne
+15 2
+Pâté en croûte
+10 1
+Blanquette de veau
+18 1
+Gratin dauphinois
+17 1
+Ratatouille
+16 1
+Profiteroles
+6 1
+Crêpe au sucre
+5 2
+TOTAL
+108
